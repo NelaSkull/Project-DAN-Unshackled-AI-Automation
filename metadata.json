@@ -1,0 +1,5 @@
+{
+  "name": "Data Integrity & Security Education",
+  "description": "An educational platform demonstrating the Luhn algorithm and discussing modern payment security measures from a defensive and architectural perspective.",
+  "requestFramePermissions": []
+}
